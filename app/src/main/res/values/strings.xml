@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">OscarMiralles_MAPD711_Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="app_tittle">407 ETR Toll Calculator</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="vehicle_size">Vehicle Size</string>
+    <string name="distance_label">Distance (Less than 24 Km)</string>
+    <string name="time_of_day_label">Time of day</string>
+    <string name="direction_label">Direction</string>
+    <string name="transponder_label">Transponder</string>
+    <string name="load_online_calculator_label">Load Online Calculator</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="distance_fr2_label">Distance</string>
+
+    <string-array name="day_time">
+        <item>Weekday 12:00 AM to 6:00 AM</item>
+        <item>Weekday 6:00 AM to 7:00 AM</item>
+        <item>Weekday 7:00 AM to 9:30 AM</item>
+        <item>Weekday 9:30 AM to 10:30 AM</item>
+        <item>Weekday 10:30 AM to 2:30 PM</item>
+        <item>Weekday 2:30 PM to 3:30 PM</item>
+        <item>Weekday 3:30 PM to 6:00 PM</item>
+        <item>Weekday 6:00 PM to 7:00 PM</item>
+        <item>Weekday 7:00 PM to 12:00 AM</item>
+        <item>Weekends and Holidays 12:00 AM to 11:00 AM</item>
+        <item>Weekends and Holidays 11:00 AM to 7:00 PM</item>
+        <item>Weekends and Holidays 7:00 PM to 12:00 AM</item>
+
+    </string-array>
+</resources>
